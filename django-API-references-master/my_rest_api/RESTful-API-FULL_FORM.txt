@@ -1,0 +1,7 @@
+
+
+"REST API" Breakdown :
+
+        REST = Representational State TransFer
+
+        API = Application Program Interface
